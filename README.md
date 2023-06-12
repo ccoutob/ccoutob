@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Cauã Couto 👋
 
 <div align="center">
-  <a href="https://github.com/EduBatageli">
+  <a href="https://github.com/ccoutob">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ccoutob&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccoutob&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
