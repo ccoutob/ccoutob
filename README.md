@@ -1,8 +1,11 @@
 
 ### Olá! Eu sou o Cauã Couto 👋
 
-![Cauã GitHub stats](https://github-readme-stats.vercel.app/api?username=ccoutob&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccoutob&layout=compact)
+<div align="center">
+  <a href="https://github.com/EduBatageli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ccoutob&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccoutob&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
 
 ## Tecnologias que uso no meu dia
 
