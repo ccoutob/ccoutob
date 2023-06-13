@@ -27,6 +27,6 @@ Contato:
   
  ## Acesse meu portfolio para saber mais:
   [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
-]([https://www.instagram.com/imisstheoldc/](https://ccoutob.github.io/portfolio/))
+](https://ccoutob.github.io/portfolio/)
 
   
