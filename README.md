@@ -7,7 +7,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccoutob&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
-## Tecnologias que uso no meu dia
+## Stacks:
 
 <div syle="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -18,7 +18,7 @@
 </div><br>
 
 
-Contato:
+Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/imisstheoldc/)
