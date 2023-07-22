@@ -1,5 +1,5 @@
 
-### Hi! I am Cauã Couto 👋
+### Hi! I'm Cauã Couto 👋
 
 <div align="center">
   <a href="https://github.com/ccoutob">
