@@ -1,5 +1,5 @@
 
-### Hi! I'm Cauã Couto 👋
+### Welcome to my GitHub! I'm Cauã Couto 👋
 
 <div align="center">
          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ccoutob&show_icons=true&theme=radical"/>
