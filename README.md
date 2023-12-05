@@ -11,11 +11,11 @@
          
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode,git,gitlab,stackoverflow,aws)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=eclipse,idea,spring,visualstudio,vscode,git,gitlab,stackoverflow,aws)](https://skillicons.dev)
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=java,spring,kotlin,mysql,python,javascript,cs)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=java,kotlin,mysql,python,javascript,cs)](https://skillicons.dev)
 
 - Front-End
 
